@@ -1,0 +1,138 @@
+[
+  {
+    "questionID": 1,
+    "questionText": "Ma tunnen end koolis hästi ja vabalt"
+  },
+  {
+    "questionID": 2,
+    "questionText": "Ma väsin koolis kiiresti"
+  },
+  {
+    "questionID": 3,
+    "questionText": "Minu jaoks jääb liiga palju õppida"
+  },
+  {
+    "questionID": 4,
+    "questionText": "Ma tahan olla aktiivne, aga ma ei suuda"
+  },
+  {
+    "questionID": 5,
+    "questionText": "Päeva lõpus tunnen end väsinud ja kurnatuna ning ei jaksa midagi uut ette võtta"
+  },
+  {
+    "questionID": 6,
+    "questionText": "Tunnen kooli suhtes vastumeelsust"
+  },
+  {
+    "questionID": 7,
+    "questionText": "Mul on keeruline hoida fookust"
+  },
+  {
+    "questionID": 8,
+    "questionText": "Olen õppimise vastu ükskõikne"
+  },
+  {
+    "questionID": 9,
+    "questionText": "Mul on raske mõelda selgelt"
+  },
+  {
+    "questionID": 10,
+    "questionText": "Ma unustan kergesti"
+  },
+  {
+    "questionID": 11,
+    "questionText": "Mõtlen koolitööde peale tihti ka oma vabal ajal"
+  },
+  {
+    "questionID": 12,
+    "questionText": "Mul on keeruline keskenduda"
+  },
+  {
+    "questionID": 13,
+    "questionText": "Ma teen vigu, kuna mõtlen sageli muudele asjadele"
+  },
+  {
+    "questionID": 14,
+    "questionText": "Ma teen vigu, kuna mõtlen sageli muudele asjadele"
+  },
+  {
+    "questionID": 15,
+    "questionText": "Ma ei suuda kontrollida oma emotsioone"
+  },
+  {
+    "questionID": 16,
+    "questionText": "Ärritun, kui asjad ei lähe nii nagu mina tahan"
+  },
+  {
+    "questionID": 17,
+    "questionText": "Olen sageli ilma konkreetse põhjuseta kurb või ärritunud"
+  },
+  {
+    "questionID": 18,
+    "questionText": "Ma võin kogemata üle reageerida"
+  },
+  {
+    "questionID": 19,
+    "questionText": "Mul on raske magama jääda või magada"
+  },
+  {
+    "questionID": 20,
+    "questionText": "Kipun liigselt muretsema"
+  },
+  {
+    "questionID": 21,
+    "questionText": "Ma tunnen sageli ärevust või mul on paanikahood"
+  },
+  {
+    "questionID": 22,
+    "questionText": "Mu pea, kõht või selg valutavad sageli"
+  },
+  {
+    "questionID": 23,
+    "questionText": "Kui ma jään hätta, siis mind aidatakse"
+  },
+  {
+    "questionID": 24,
+    "questionText": "Ma olen tihti haige"
+  },
+  {
+    "questionID": 25,
+    "questionText": "Tunnen end koolis üksikuna"
+  },
+  {
+    "questionID": 26,
+    "questionText": "Mõnikord ma tunnen, et mind kiusatakse"
+  },
+  {
+    "questionID": 27,
+    "questionText": "Tunnen tihti, et ma ei ole õppimises piisavalt hea"
+  },
+  {
+    "questionID": 28,
+    "questionText": "Mul kipuvad hääl ja/või käed tihti värisema"
+  },
+  {
+    "questionID": 29,
+    "questionText": "Ma ei jõua tunnis teistega samas tempos ülesandeid lahendada"
+  },
+  {
+    "questionID": 30,
+    "questionText": "Mul on lähedased, kellelt saan rasketel hetkedel tuge"
+  },
+  {
+    "questionID": 31,
+    "questionText": "Ma ei taha teha koolitöid ja otsin võimalusi nendest viilimiseks"
+  },
+  {
+    "questionID": 32,
+    "questionText": "Tunnen enne kontrolltööd ärevust isegi kui olen selleks õppinud"
+  },
+  {
+    "questionID": 33,
+    "questionText": "Ma lähen endast välja, kui ma ei oska mõnd kooli ülesannet lahendada"
+  },
+  {
+    "questionID": 34,
+    "questionText": "Lisaks kehalise kasvastusele ma teen vähemalt 2 korda nädalas trenni või liigun õues vähemalt ühe tunni päevas"
+  }
+]
